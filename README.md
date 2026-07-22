@@ -22,6 +22,38 @@ My GitHub showcases my exploration of modern AI technologies, including Large La
 
 ---
 
+## 🏫 EdTech & Digital Transformation Projects
+
+### Schoolarr — Hong Kong Secondary School Discovery Platform
+
+A mobile application concept designed to help Hong Kong parents discover, compare, and evaluate secondary schools using structured government education data.
+
+Schoolarr explores how technology can simplify one of the most important decisions for families — choosing the right secondary school.
+
+Key capabilities:
+
+- 🔍 Intelligent school search and filtering
+- 📊 School comparison experience
+- 🗺️ Location-based school discovery
+- 🌏 English and Traditional Chinese support
+- 📱 Cross-platform mobile application
+- 💳 Freemium business model exploration
+
+Technology:
+
+- React Native + TypeScript
+- Redux Toolkit
+- Firebase
+- SQLite
+- Google Maps Integration
+
+Status:
+🚧 Prototype / Product Exploration
+
+➡️ https://github.com/PHIacademy/Schoolarr
+
+---
+
 ## 🤖 Featured AI Projects
 
 ### Agentic AI
