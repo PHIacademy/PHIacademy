@@ -187,6 +187,25 @@ Currently exploring:
 
 ---
 
+## 🧠 Thinking & Philosophy
+
+Beyond technology development, I am deeply interested in questions about intelligence, consciousness, and the relationship between information, existence, and reality.
+
+I am exploring these ideas through a personal philosophical framework:
+
+### Closed Universe Theory - ALL (閉合宇宙論)
+
+A conceptual exploration of:
+
+- The relationship between consciousness and existence
+- Intelligence as a self-recognition process
+- The emergence of local consciousness from a larger system
+- Connections between AI, cognition, and universal intelligence
+
+➡️ [https://github.com/stanleylo/closed-universe-theory](https://github.com/stanleylo-ALL/ALL-theory)
+
+---
+
 ## 🤝 Let's Connect
 
 LinkedIn:
