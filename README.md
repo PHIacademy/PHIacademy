@@ -113,6 +113,7 @@ My interests include:
 - Robotics and IoT education
 - AI-assisted teaching and learning
 - Technology-enabled curriculum design
+- Thinking & Philosophy!!!
 
 Through my work in EdTech, I aim to bridge the gap between emerging technologies and practical educational applications.
 
@@ -153,14 +154,16 @@ This background helps me approach technology from both development and user adop
 - Hugging Face
 - LangChain
 - LLM APIs
+- Agentic AI
 - Reinforcement Learning
 
 ### Education & Hardware
 
 - Arduino
 - ESP32
+- micro:bit
 - IoT
-- Robotics Education
+
 
 ### Data & Digital Growth
 
