@@ -50,7 +50,7 @@ Technology:
 Status:
 🚧 Prototype / Product Exploration
 
-➡️ https://github.com/PHIacademy/Schoolarr
+➡️ https://github.com/PHIacademy/Schoolarr (private)
 
 ---
 
